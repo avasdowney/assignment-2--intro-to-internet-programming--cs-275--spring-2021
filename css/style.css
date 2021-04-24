@@ -1,20 +1,23 @@
-/* Tags */
-
 h1 {
-  color: green;
+  font-size: 7vw;
+  color: #b6f0ef;
+}
+
+p {
+  font-size: 2vw;
 }
 
 button {
-  font-family: "Papyrus";
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  font-size: 2vw;
   padding: 10px;
   margin-right: 10px;
   margin-left: 10px;
 }
 
-/* Formatting */
 body {
-  background-color: cornsilk;
-  font-family: "Papyrus";
+  background-color: #fffa9c;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 }
 
 .centered {

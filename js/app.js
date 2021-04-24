@@ -5,7 +5,7 @@ function whiteRice() {
     let amountWater = amountRice*2;
 
     recipe.innerHTML = " "; // clears the sprouted rice recipe
-    recipe.innerHTML = "Combine " + String(amountRice) + " cups of rice with " + String(amountWater) + "cups of water and 1" + 
+    recipe.innerHTML = "Combine " + String(amountRice) + " cups of rice with " + String(amountWater) + " cups of water and 1" + 
     "Tbsp olive oil. Bring to a boil, then reduce heat to the lowest setting. Cook for about 18 minutes."
 }
 
