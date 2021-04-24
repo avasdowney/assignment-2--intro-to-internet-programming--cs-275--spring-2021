@@ -5,13 +5,23 @@ h1 {
 }
 
 button {
+  font-family: "Papyrus";
   padding: 10px;
   margin-right: 10px;
   margin-left: 10px;
 }
 
 /* Formatting */
+body {
+  background-color: cornsilk;
+  font-family: "Papyrus";
+}
 
 .centered {
   text-align: center;
+}
+
+.margin {
+  margin-left: 5vw;
+  margin-right: 5vw;
 }
